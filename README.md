@@ -1,4 +1,4 @@
-# Easy security map
+# Easy security maps
 
 This repository contains set of mindmaps and links helping students to obtain SOC-related knowledge as well as expirience with open-source and proprietary tools. 
 We suggest to use ready virtual machines and distributions listed below:
