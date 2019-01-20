@@ -1,6 +1,6 @@
-# maps
+# Easy security
 
-This repository contains set of mindmaps helping students to educate SOC-related professions.
+This repository contains set of mindmaps helping students to obtain SOC-related knowledge as well as expirience with open source tools. 
 
 1. [Email Analysis](#Email-analysis)
 
