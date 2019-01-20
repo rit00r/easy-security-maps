@@ -6,11 +6,11 @@ We suggest to use ready virtual machines and distributions listed below:
 1. [REMnux](https://remnux.org)
 1. [SIFT Workstation](https://digital-forensics.sans.org/community/downloads)
 
-List of mind maps:
+## Mind maps
 1. [Email Analysis](#Email-analysis)
 1. [MS Office Files Analysis](#MS-Office-Files-Analysis)
 
-## Email analysis
+### Email analysis
 
 This mindmap shows what types of IOCs could be executed from suspicious email headers, content and attached files:
 - string
@@ -19,7 +19,7 @@ This mindmap shows what types of IOCs could be executed from suspicious email he
 - domain name
 - host name
 
-## MS Office Files Analysis
+### MS Office Files Analysis
 
 There is a list of open-source tools grouped by actions which can be executed with suspicious MS Office files (doc, docx, xls, xlsx, ppt, pptx etc.)
 
