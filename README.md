@@ -9,6 +9,7 @@ We suggest to use ready virtual machines and distributions listed below:
 ## Mind maps
 1. [Email Analysis](#Email-analysis)
 1. [MS Office Files Analysis](#MS-Office-Files-Analysis)
+1. [PDF Files Analysis](#PDF-Files-Analysis)
 
 ### Email analysis
 
@@ -27,3 +28,12 @@ There is a list of open-source tools grouped by actions which can be executed wi
 - [officeparser](https://github.com/unixfreak0037/officeparser)
 - [pyOLEScanner.py](https://github.com/Evilcry/PythonScripts)
 - [hachoir-urwid](https://github.com/vstinner/hachoir/blob/master/doc/urwid.rst)
+
+### PDF Files Analysis
+
+There is a list of open-source and online tools grouped by actions which can be executed with suspicious PDF files
+
+- [PDF Tools from Didier Stevens (pdf-parser.py, pdfid.py)](https://blog.didierstevens.com/programs/pdf-tools/)
+- [peepdf.py](http://eternal-todo.com/tools/peepdf-pdf-analysis-tool)
+- [PDF Stream Dumper](http://sandsprite.com/blogs/index.php?uid=7&pid=57)
+- [PDFExaminer](https://www.malwaretracker.com/pdf.php)
